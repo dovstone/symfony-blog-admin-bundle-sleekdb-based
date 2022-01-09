@@ -1,2 +1,10 @@
-# symfony-blog-admin-bundle-sleekdb-based
-A Symfony Blog Administrator as simplest as complete based on SleekDB
+Installation
+============
+
+### Download the Bundle
+
+Open a command console, enter your project directory and execute the
+following command to download the latest stable version of this bundle:
+
+```console
+$ composer require dovstone/symfony-blog-admin-bundle-sleekdb-based
