@@ -1,0 +1,23 @@
+{
+  "name": "dovstone/symfony-blog-admin-bundle-sleekdb-based",
+  "description": "A Symfony Blog Administrator as simplest as complete based on SleekDB",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dovstone",
+      "email": "silveredovoui@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability":"dev",
+  "require": {
+    "php": "^7.1.3",
+    "knplabs/knp-paginator-bundle": "^5.4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "DovStone\\Bundle\\SymfonyBlogAdminBundleSleekDBBased\\": "src/"
+    }
+  }
+}
